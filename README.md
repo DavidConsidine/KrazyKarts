@@ -38,3 +38,8 @@
 + What is rolling resistance?
 + Finding the gravity in Unreal.
 + Implementing rolling resistance.
+
+### KK07: Steering And Turning Circles ###
+
++ Why we get turning circles.
++ Calculating our rotation geometry.
