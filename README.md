@@ -10,6 +10,13 @@
 
 ### KK02: Understanding Forces and Movement ###
 
-+ REvision of forces in physics.
++ Revision of forces in physics.
 + Calculating movement from force.
 + Providing the driving force.
+
+### KK03: Blocking Movement Without Physics ###
+
++ Setting up the collision volumes.
++ Sweeping with 'AddActorWorldOffset'.
++ Resetting velocity on collision.
++ Refactoring the 'Tick' function.
