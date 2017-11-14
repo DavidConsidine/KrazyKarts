@@ -32,3 +32,9 @@
 + Understanding air resistance.
 + Getting the "speed".
 + Calculating force due to air resistance.
+
+### KK06: Simulating Rolling Resistance ###
+
++ What is rolling resistance?
++ Finding the gravity in Unreal.
++ Implementing rolling resistance.
