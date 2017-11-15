@@ -65,7 +65,14 @@
 
 ### KK11: Replicating Variables From The Server ###
 
-+ Overviewe of property replication.
++ Overview of property replication.
 + Replicating the actor position.
 + Setting and reading the property.
 + Replicating the actor rotation.
+
+### KK12: Triggering Code On Replication ###
+
++ Deep dive on property replication.
++ Setting the network update interval.
++ Notify on replicate.
++ Simulate between updates.
