@@ -62,3 +62,10 @@
 + How simulation error effect out game.
 + Overview the different sources of error.
 + Investigate approaches to eliminating them.
+
+### KK11: Replicating Variables From The Server ###
+
++ Overviewe of property replication.
++ Replicating the actor position.
++ Setting and reading the property.
++ Replicating the actor rotation.

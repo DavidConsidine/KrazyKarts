@@ -30,6 +30,12 @@ public:
 private:
 	FVector Velocity;
 
+	UPROPERTY(Replicated)
+	FVector ReplicatedLocation;
+
+	UPROPERTY(Replicated)
+	FRotator ReplicatedRotation;
+
 	// The mass of the car (kg).
 	UPROPERTY(EditAnywhere)
 	float Mass = 1000.0f;
