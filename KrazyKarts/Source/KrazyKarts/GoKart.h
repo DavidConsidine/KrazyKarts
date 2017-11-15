@@ -28,6 +28,7 @@ public:
 
 
 private:
+	UPROPERTY(Replicated)
 	FVector Velocity;
 
 	UPROPERTY(ReplicatedUsing= OnRep_ReplicatedTransform)
@@ -61,7 +62,10 @@ private:
 	UPROPERTY(EditAnywhere)
 	float MinTurningRadius = 10.0f;
 
+	UPROPERTY(Replicated)
 	float Throttle;
+
+	UPROPERTY(Replicated)
 	float SteeringThrow;
 
 	FVector GetAirResistance();

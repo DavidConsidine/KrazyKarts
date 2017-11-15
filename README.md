@@ -76,3 +76,9 @@
 + Setting the network update interval.
 + Notify on replicate.
 + Simulate between updates.
+
+### KK13: TSmooth Simulated Proxies ###
+
++ Replicating velocity.
++ Why is movement jerky?
++ Replicating control input SimulatedProxy.
