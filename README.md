@@ -56,3 +56,9 @@
 + What are Actor roles?
 + Investigating the network roles.
 + Updating the 'AutonomousProxy'.
+
+### KK10: Sources of Simulation Error ###
+
++ How simulation error effect out game.
++ Overview the different sources of error.
++ Investigate approaches to eliminating them.
