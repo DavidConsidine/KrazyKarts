@@ -77,8 +77,13 @@
 + Notify on replicate.
 + Simulate between updates.
 
-### KK13: TSmooth Simulated Proxies ###
+### KK13: Smooth Simulated Proxies ###
 
 + Replicating velocity.
 + Why is movement jerky?
 + Replicating control input SimulatedProxy.
+
+### KK14: Simulating Lag And Packet Loss ###
+
++ What is lag?
++ Why does lag cause glitching?
