@@ -89,3 +89,8 @@
 + Why does lag cause glitching?
 
 ### KK15: Replay Autonomous Moves ###
+
+### KK16: Planning Clinet-Side Prediction ###
+
++ Pseudocode for client prodiction.
++ Adding structs for synchronisation.
