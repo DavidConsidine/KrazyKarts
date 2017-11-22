@@ -94,3 +94,9 @@
 
 + Pseudocode for client prodiction.
 + Adding structs for synchronisation.
+
+### KK17: Replicating Structs ###
+
++ What do we have already?
++ Replicating state via a struct.
++ Sending the 'Move' struct via RPC.
