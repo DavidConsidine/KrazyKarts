@@ -100,3 +100,9 @@
 + What do we have already?
 + Replicating state via a struct.
 + Sending the 'Move' struct via RPC.
+
+### KK18: Simulating A Move ###
+
++ The 'SimulateMove' signature.
++ Updateing the canonical state.
++ Implement 'SimulateMove'.

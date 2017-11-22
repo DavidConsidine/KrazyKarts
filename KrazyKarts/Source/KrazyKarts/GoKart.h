@@ -84,15 +84,14 @@ private:
 	UPROPERTY(EditAnywhere)
 	float MinTurningRadius = 10.0f;
 
-	UPROPERTY(Replicated)
 	float Throttle;
 
-	UPROPERTY(Replicated)
 	float SteeringThrow;
 
+	void SimulateMove(FGoKartMove Move);
 	FVector GetAirResistance();
 	FVector GetRollingResistance();
-	void ApplyRotation(float DeltaTime);
+	void ApplyRotation(float DeltaTime, float SteeringThrow);
 	void UpdateLocationFromVelocity(float DeltaTime);
 
 	void MoveForward(float Value);
