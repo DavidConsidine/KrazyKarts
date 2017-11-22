@@ -106,3 +106,10 @@
 + The 'SimulateMove' signature.
 + Updateing the canonical state.
 + Implement 'SimulateMove'.
+
+### KK19: Unacknowledged Move Queue ###
+
++ 'TArray' for the Move queue.
++ Tidying the move creation code.
++ Printing the queue length.
++ Removing acknowledged moves.

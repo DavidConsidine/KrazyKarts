@@ -84,11 +84,12 @@ private:
 	UPROPERTY(EditAnywhere)
 	float MinTurningRadius = 10.0f;
 
-	float Throttle;
-
-	float SteeringThrow;
+	
 
 	void SimulateMove(FGoKartMove Move);
+	FGoKartMove CreateMove(float DeltaTime);
+	void ClearAcknowledgedMoves(FGoKartMove LastMove);
+
 	FVector GetAirResistance();
 	FVector GetRollingResistance();
 	void ApplyRotation(float DeltaTime, float SteeringThrow);
@@ -107,4 +108,9 @@ private:
 
 	UFUNCTION()
 	void OnRep_ServerState();
+
+	float Throttle;
+	float SteeringThrow;
+
+	TArray<FGoKartMove> UnacknowledgedMoves;
 };
