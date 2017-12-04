@@ -132,3 +132,18 @@
 + How to spot your "code smells".
 + Identifying a suitable refactor.
 + Planning our refactor.
+
+### KK23: Extracting A Movement Component ###
+
++ Create and name the component.
++ Move member declarations across.
++ Move function implementations.
++ Fix build errors.
+
+### KK24: Extracting A Replication Component ###
+
++ Creating the component.
++ Enable replication.
++ Move member declarations across.
++ Move function implementations.
++ Fix build errors.
