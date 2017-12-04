@@ -147,3 +147,9 @@
 + Move member declarations across.
 + Move function implementations.
 + Fix build errors.
+
+### KK25: Decoupling Movement And Replication ###
+
++ What happens if we disable the replicator?
++ Allow the Movement Component to tick.
++ Getting the information to replicate.
