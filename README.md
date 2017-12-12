@@ -166,3 +166,9 @@
 + Updating the time variables.
 + 'FMath::Lerp' vs 'FMath::LerpStable'.
 + Implementing the pseudocode.
+
+### KK28: FQuat::Slerp For Rotation ###
+
++ 'Slerp' vs 'Lerp'.
++ Store transform instead of location.
++ Implemeting 'Slerp'ed location.
