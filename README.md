@@ -172,3 +172,10 @@
 + 'Slerp' vs 'Lerp'.
 + Store transform instead of location.
 + Implemeting 'Slerp'ed location.
+
+### KK29: Hermite Cubic Spline Interpolation ###
+
++ Understanding jarring movement.
++ How velocity can help or hinder.
++ A brief overrview of polynomials.
++ Introducing the Hermite Cubic Spline.
