@@ -191,3 +191,9 @@
 + Assessing the existing code.
 + Creating a plain C++ struct.
 + Pulling out methods.
+
+### KK32: Client Interpolation Mesh Offset ###
+
++ Understanding mesh offsetting.
++ Set up the mesh offset root component.
++ Manipulating the offset instead.
