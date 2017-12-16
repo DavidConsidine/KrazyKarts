@@ -197,3 +197,10 @@
 + Understanding mesh offsetting.
 + Set up the mesh offset root component.
 + Manipulating the offset instead.
+
+
+### KK33: Advanced Cheat Protection ###
+
++ Bounding the inputs.
++ Stressing our DeltaTime.
++ Tracking simulation time.
